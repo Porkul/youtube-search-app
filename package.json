@@ -1,6 +1,6 @@
 {
   "name": "youtube-search-app",
-  "homepage":"https://porkul.github.io/youtubesearchpage",
+  "homepage": "https://porkul.github.io/youtube-search-app",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
@@ -38,5 +38,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "gh-pages": "^3.2.3"
   }
 }
