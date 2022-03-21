@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/youtube-search-app/static/css/main.6fa0c11c.css",
+    "main.js": "/youtube-search-app/static/js/main.2a238dff.js",
+    "index.html": "/youtube-search-app/index.html",
+    "main.6fa0c11c.css.map": "/youtube-search-app/static/css/main.6fa0c11c.css.map",
+    "main.2a238dff.js.map": "/youtube-search-app/static/js/main.2a238dff.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6fa0c11c.css",
+    "static/js/main.2a238dff.js"
+  ]
+}
